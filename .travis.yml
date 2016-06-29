@@ -1,4 +1,3 @@
 language: ruby
-authorization_server: https://octodemo.com
-rvm: 2.2.2
+rvm: 2.2.4
 script: ./script/cibuild
